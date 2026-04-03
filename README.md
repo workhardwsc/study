@@ -1,2 +1,2 @@
 # study
-This is use for study
+初版的单片机裸机系统
